@@ -1,3 +1,7 @@
+
+### This code is associated with the paper from Xue et al., "Parallel evolution of influenza across multiple spatiotemporal scales". eLife, 2017. http://dx.doi.org/10.7554/eLife.26875
+
+
 # parallel-evolution
 
 This repository contains code and small intermediate data files associated with the manuscript "Parallel evolution of influenza across multiple spatiotemporal scales." All scripts are meant to be run from the top level of the repository.
